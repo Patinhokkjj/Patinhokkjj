@@ -2,14 +2,10 @@
 
 ###
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patinhokkjj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=patinhokkjj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patinhokkjj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/04/49/3d/04493d22f2e57411456a7f0e2854311f.gif"  />
 
 ###
 
@@ -21,6 +17,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="145" src="https://i.pinimg.com/originals/04/49/3d/04493d22f2e57411456a7f0e2854311f.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patinhokkjj&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
