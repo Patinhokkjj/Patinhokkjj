@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg">
   <img height=12" />
   <img width="12" />
 </div>
