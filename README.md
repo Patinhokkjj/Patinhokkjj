@@ -61,4 +61,3 @@
   <img src="https://komarev.com/ghpvc/?username=Patinhokkjj&label=Visitas&color=58a6ff&style=for-the-badge" alt="Contador de visitas" />
 </p>
 
-<p align="center"><i>"Todo grande programador já foi um iniciante." 🚀</i></p>
