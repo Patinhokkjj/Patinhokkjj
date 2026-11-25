@@ -37,8 +37,8 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patinhokkjj&show_icons=true&hide_border=true&count_private=true&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0&ring_color=3DF5C0" alt="Estatísticas" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Patinhokkjj&hide_border=true&background=0B1F1C&ring=3DF5C0&fire=3DF5C0&currStreakNum=2FD9A0&currStreakLabel=3DF5C0&sideNums=2FD9A0&sideLabels=1FB8A0&dates=1FB8A0" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patinhokkjj&show_icons=true&hide_border=true&count_private=true&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0&ring_color=3DF5C0&v=2" alt="Estatísticas" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Patinhokkjj&hide_border=true&background=0B1F1C&ring=3DF5C0&fire=3DF5C0&currStreakNum=2FD9A0&currStreakLabel=3DF5C0&sideNums=2FD9A0&sideLabels=1FB8A0&dates=1FB8A0&v=2" alt="Streak" />
 </p>
 
 <p align="center">
