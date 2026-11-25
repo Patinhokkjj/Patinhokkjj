@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar;Algum+dia+eu+faço+um+comit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar;" alt="Typing SVG" />
 </p>
 
 ---
