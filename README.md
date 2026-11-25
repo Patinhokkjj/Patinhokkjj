@@ -28,8 +28,8 @@
 <!-- Os gráficos abaixo são atualizados automaticamente com base nos meus repositórios -->
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (rosca)" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (barras)" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (rosca)" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (barras)" />
 </p>
 
 ---
@@ -37,12 +37,12 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patinhokkjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Patinhokkjj&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patinhokkjj&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="95%" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Patinhokkjj&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Patinhokkjj/Patinhokkjj/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 -->
 
@@ -73,13 +73,13 @@
 ## 📫 contatos
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Patinhokkjj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=58a6ff&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Patinhokkjj&label=Visitas&color=58a6ff&style=for-the-badge" alt="Contador de visitas" />
 </p>
 
 <p align="center"><i>"Todo grande programador já foi um iniciante." 🚀</i></p>
