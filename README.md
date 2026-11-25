@@ -28,7 +28,7 @@
 <!-- Os gráficos abaixo são atualizados automaticamente com base nos meus repositórios -->
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=donut&hide_border=true&langs_count=6&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=donut&hide_border=true&langs_count=6&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0%22"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=compact&hide_border=true&langs_count=6&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0" alt="Linguagens mais usadas (barras)" />
 </p>
 
