@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DF5C0&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar;" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,8 +28,8 @@
 <!-- Os gráficos abaixo são atualizados automaticamente com base nos meus repositórios -->
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (rosca)" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=58a6ff" alt="Linguagens mais usadas (barras)" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=donut&hide_border=true&langs_count=6&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0" alt="Linguagens mais usadas (rosca)" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patinhokkjj&layout=compact&hide_border=true&langs_count=6&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0" alt="Linguagens mais usadas (barras)" />
 </p>
 
 ---
@@ -37,15 +37,13 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patinhokkjj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Patinhokkjj&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patinhokkjj&show_icons=true&hide_border=true&count_private=true&bg_color=0B1F1C&title_color=3DF5C0&text_color=2FD9A0&icon_color=1FB8A0&ring_color=3DF5C0" alt="Estatísticas" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Patinhokkjj&hide_border=true&background=0B1F1C&ring=3DF5C0&fire=3DF5C0&currStreakNum=2FD9A0&currStreakLabel=3DF5C0&sideNums=2FD9A0&sideLabels=1FB8A0&dates=1FB8A0" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patinhokkjj&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patinhokkjj&hide_border=true&bg_color=0B1F1C&color=2FD9A0&line=3DF5C0&point=FFFFFF&area=true&area_color=1FB8A0&title_color=3DF5C0" alt="Gráfico de atividade" width="95%" />
 </p>
-
----
 
 ---
 
@@ -58,6 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Patinhokkjj&label=Visitas&color=58a6ff&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Patinhokkjj&label=Visitas&color=000000&style=for-the-badge" alt="Contador de visitas" />
 </p>
-
