@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar+todos+os+dias;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+UNAMA;Aprendendo+a+programar;Algum+dia+eu+faço+um+comit" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,27 +46,6 @@
 </p>
 
 ---
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patinhokkjj&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus" />
-</p>
-
----
-
-## 🐍 Cobrinha de contribuições
-
-> Para ativar, crie o workflow do [Platane/snk](https://github.com/Platane/snk) no seu repositório. Depois descomente a linha abaixo.
-
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Patinhokkjj/Patinhokkjj/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
--->
-
----
-
 
 ---
 
